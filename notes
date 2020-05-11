@@ -10,3 +10,32 @@ storyline:
 - intro: head straight to the classroom to start the game. no variables of exploring the building beforehand. 
 - professor starts the game and sends you on your way. maybe has clues?
 - syllabus is in the kitchen downstairs?
+
+narrative for the beginning of the game. 
+Today is the first day of a new semester at the iSchool. You are a first year student, \n
+and you're on your way to your first class of the day: Information, Organization, and \n
+Access, taught by someone named Dr. Sage Blanchard. You've never heard of them, and \n
+when you were signing up for classes and researching your professors, you couldn't find \n
+any useful information about them online. You aren't sure what to expect. . . .\n\n
+press enter to continue
+You find your classroom easy enough, but the door is closed and the lights are off.\n
+A few other people are standing by the door, reading a piece of paper taped to it.\n
+You walk forward and read along with them, and on the paper is a message written neatly\n
+in blue ink:\n\n
+
+"Today's class will be a lesson in user experience. Your task is to seek out and locate\n
+one of the many copies of our class syllabus that I have hidden around the building. Once \n
+you locate one, write your name at the top and place it in the folder below.\n\n
+Do not attempt to photocopy a syllabus someone else has already found - I will know.\n\n
+Good luck, and I'll see you next week!\n
+- Dr. Sage 'Wit' Blanchard"\n\n
+
+You notice a manilla envelope taped to the door below the note. You aren't sure if it had \n
+been there a moment before. A few white sheets of printer paper are already in the envelope.\n
+"How did people already find copies? It's barely on the hour!" you think to yourself. The \n
+longer you wait, however, the more difficult the search will become, so you better get started!\n\n
+press enter to continue
+
+- update: figured out how to textwrap. v useful. but also ive been manually doing it, so now i have 
+to go back through and fix all of those............... r i p
+
