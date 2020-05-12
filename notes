@@ -42,10 +42,17 @@ to go back through and fix all of those............... r i p
 - to be written:
   - view from your classroom
   - description of...
-    - window
-    - empty classroom
-    - front office
-    - conference room
+    - window: You walk over to the window and look out over the iSchool parking lot. It's a warm sunny day in August, with just enough of a breeze to keep you cool. Glancing around the windowsill, you don't see much other than a few leaves that have been tracked in from outside. Finding nothing interesting, you turn back around and decide to look elsewhere. 
+    - empty classroom: You step towards the double doors that lead into the lecture hall. They're locked. You notice a piece of paper on the right door that looks similar to the one on your classroom. You read it, and gather that whatever class was supposed to meet here has been sent on a similar quest as your own - another class looking for copies of their syllabi around the building! From the note, it seems this class is . . . 590: Comics: Advising Readers. What an interesting class! You'll have to make sure you don't pick up and turn in one of their syllabi instead of your own. 
+    - front office: 
+      You walk up to the front office desk. A woman sitting behind the desk greets you with a warm smile.
+        'Hello!' she says to you. 'What can I help you with?'
+        You ask her if she has any copies of the syllabus for your 501 class. Unfortunately, she does not, and you aren't the first person to ask her that. She advises you to check the kitchen downstairs and the graduate lounge upstairs. Better hurry before your classmates find all the other copies!
+    - conference room: You walk over to the set of double doors and try to pull them open, but they are locked. You peer inside, but the lights are off and you can't make anything out other than a long table and a number of office chairs around it in the center of the room. You hope that Dr. Blanchard wouldn't hide a sheet of paper in a locked conference room. 
     - basement landing
     - kitchen
     - CCB
+    - lounge
+    - help desk
+
+update: gotta go run music bingo!! in the process of adding the descriptions ive written here to the code itself, and making sure the "quit" option is available any time there is an input, and that the formatting is correct (with "\n"s and everything). also re-organizing the functions themselves to be in order of supposed discovery.
