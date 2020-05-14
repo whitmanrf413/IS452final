@@ -1,5 +1,7 @@
 # IS452final Syllabus Day
  Welcome to Syllabus Day, a text-based game made by Rachel Whitman about your first day of school.
+ 
+ NOTE: This game was coded in Python 3.8. If you don't have Python installed on your computer, you will not be able to run this game.
 
 To play this game:
 
