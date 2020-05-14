@@ -51,9 +51,26 @@ to go back through and fix all of those............... r i p
     - conference room: You walk over to the set of double doors and try to pull them open, but they are locked. You peer inside, but the lights are off and you can't make anything out other than a long table and a number of office chairs around it in the center of the room. You hope that Dr. Blanchard wouldn't hide a sheet of paper in a locked conference room. 
     - basement landing
     - kitchen
+    You turn left and walk over to the kitchen. The counters are mostly bare, save for an industrial coffee maker, a microwave, a tin of coffee, and a basket of various kinds of teas. There is a vending machine here and a number of cabinets above the counter, but they are either empty or locked, save for one that has some paper products inside. It's still morning, so the coffee in the coffeemaker is still hot. You grab an insulated paper cup and help yourself to some of the coffee to try to wake yourself up. No syllabi here, but still a worthy find.
     - CCB
-    - lounge
-    - help desk
+     You turn right and walk over to the Center for Children's Books, or CCb for short. You try to take the handle and open the door, but it doesn't budge. Peering through the small window in the door, it looks like the lights are off. There is a note next to the door on bright pink paper - its a wonder you didn't notice it before. Apparently, the CCB is closed today due to renovations. 
+    - lounge:
+      You walk down the short hallway to the left and step into a lounge area. There is a small kitchen here and you can smell coffee in the air. There is also a table and chairs for a workspace, and some comfy-looking sofas and chairs. You decide to test one out, just to make sure its as comfortable as it seems, and to rest your feet for a moment. You walk over and gently sit down on one of the sofas, across a coffee table from someone who seems to be scrolling through their phone. It doesn't look like they've moved in a while, and you wonder how long they've been in the lounge . . .
+      This sofa is pretty comfortable, but it could be better. You adjust your cushion a little, thinking maybe it isn't in the right spot. As you push it backwards further into the couch, you hear a crinkle of paper. You stand and pick the cushion fully off the couch, only to find . . . a syllabus!
+      You pick up the white sheet of crumpled paper and read the first few lines to make sure it's for your class:
+      505: Information, Organization, and Access
+      Dr. Sage 'Wit' Blanchard
+      Tuesdays and Thursdays 9-11:50am
+      Room 131
+      It is! You punch the air in triumph and victory. Who knew taking a break could mean your success?! You smooth out the paper on the coffee table, grab a pen from your pocket, and quickly scrawl your name in the top right-hand corner.
+      You glance around to see if anyone noticed your celebration. The person on their phone is still scrolling; they didn't notice a thing. . . . . Better get back to your classroom and turn this in. 
+    - help desk:
+      You step up to the iSchool Help Desk. On the counter, you see a Cat-of-the-Day calendar. Today's Cat of the Day is a long-haired black and white cat named Stevie. There is a picture of said cat sitting in some bright spring grass on a sunny day. The description under the picture says: 
+      'WINNER OF THE WEEK: What sorcery is this? Christine Murdock from Tacomma, Washington, shares, "STEVIE is a two-year-old tuxedo kitty with a 'wizard's beard' white chest. He is a goofy boy who enjoys his walks in the backyard investigating the places he's seen birds and bunnies." She adds that Stevie also never misses an opportunity to practice his powers, though they're still a bit rusty: "He lets us know he wants something by pawing the closest object with one - or both - paws."'
+      There is an iSchool graduate student behind the desk. They smile at you. 'Isn't Stevie just the cutest? That Cat-of-the-Day calendar makes my day every shift I work!' 
+      You nod. 'Stevie is pretty cute! He looks very adventurous.'
+      The grad student chuckles along with you and asks, 'Is there anything I can help you with?'
+      You ask about your class's syllabus. The grad student nods knowingly as you speak. It seems other people have also thought to come here for help. Unfortunately, the grad student can neither confirm nor deny the possible location of any syllabi. You thank them anyways, and decide to look elsewhere.
 
 update: gotta go run music bingo!! in the process of adding the descriptions ive written here to the code itself, and making sure the "quit" option is available any time there is an input, and that the formatting is correct (with "\n"s and everything). also re-organizing the functions themselves to be in order of supposed discovery.
 
