@@ -429,7 +429,7 @@ def end_game():
     print_med("Congratulations!\n\n")
     print_med(textwrap.fill("You completed the game!! Great job! Give yourself a pat on the back."))
     print_med("\n\n")
-    print_med(textwrap.fill("This game was written and coded in Python 3.7 by Rachel Whitman as her final project in IS452: Foundations of Information Processing. She hopes you enjoyed it!"))
+    print_med(textwrap.fill("This game was written and coded in Python 3.8 by Rachel Whitman as her final project in IS452: Foundations of Information Processing. She hopes you enjoyed it!"))
     print("\n")
     print_med(textwrap.fill("Special thanks to Logan Smith for enduring Rachel's stress when trying to make Python do what she wanted, for testing the game regularly, and for giving her the best high-fives whenever something worked."))
     print_med("\n\nIf you want to go back to the menu, type 'menu'.\nIf you want to play again, type 'start'.\nIf you want to close out the game, type 'quit'.\n\n")
